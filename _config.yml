@@ -24,13 +24,12 @@ repository               : "chamjinJoo/chamjinJoo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Chamjin Joo"
+  pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Daejeon, Republic of Korea"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "oscar331@kaist.ac.kr" 
 
   # Academic websites
   academia         : # URL
@@ -221,9 +220,6 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
